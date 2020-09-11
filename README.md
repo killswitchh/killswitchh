@@ -27,7 +27,9 @@
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=killswitchh&show_icons=true" alt="killswitchh" /></p>
+<p align="center">&nbsp;
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=killswitchh&show_icons=true" alt="killswitchh" />
+</p>
 
 <p align="center">
 <a href="https://linkedin.com/in/balaji-ja/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="balaji-ja/" height="30" width="30" /></a>
