@@ -8,11 +8,10 @@
 - 📫 You can reach me at **balaji110499@gmail.com** or ping me on Discord : **Kill$witch#7117**
 
 <p align="left">
-<a href="https://app.daily.dev/Killswitch"><img src="https://api.daily.dev/devcards/e73e01d7c6c043aab1f7f58e8960d9d1.png?r=pbc" width="400" alt="Balaji Jayakumar's Dev Card"/></a>
-</p>
-
-<p align="right">&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=killswitchh&show_icons=true" alt="killswitchh" />
+ <a align="left" href="https://app.daily.dev/Killswitch">
+  <img src="https://api.daily.dev/devcards/e73e01d7c6c043aab1f7f58e8960d9d1.png?r=pbc" width="400" alt="Balaji Jayakumar's Dev Card"/>
+ </a>
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=killswitchh&show_icons=true" alt="killswitchh" />
 </p>
 
 <p align="center">
