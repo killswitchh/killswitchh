@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Balaji</h1>
-<h3 align="center">A Software Developer from India. Lets make stuff together!</h3>
+<h3 align="center">A Software Developer. Lets build stuff together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killswitchh" alt="killswitchh" /> </p>
-
-- 🌱 I’m currently learning **Node JS, Django**
 
 - 📫 You can reach me at **balaji110499@gmail.com** or ping me on Discord : **Kill$witch#7117**
 
