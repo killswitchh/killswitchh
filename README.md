@@ -43,12 +43,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/killswitchh/killswitchh/output/snake.svg" alt="Snake animation" />
-
-###
-
-
-###
